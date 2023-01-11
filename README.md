@@ -1,1 +1,3 @@
-# C-Programming-Roll-20-G1
+# C-Programming Assignment 
+# Roll no: 20 ,Section: G1
+# Chandra Shekahr Saini
